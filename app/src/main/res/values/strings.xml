@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">千手观音</string>
+    <string name="action_settings">图表</string>
+    <string name="action_marks">分析</string>
+
+    <string name="hello_words">亲爱的，</string>
+    <string name="dbdx">独臂大侠</string>
+</resources>
